@@ -34,4 +34,6 @@ SHEET_URL=https://docs.google.com/spreadsheets/d/your-sheet-id/edit
 ## 🧪 Run Script Manually
 python send_daily_task.py
 
+## 📬 Output
+A Slack message like:
 <img width="1141" height="456" alt="Screenshot 2025-07-29 213305" src="https://github.com/user-attachments/assets/006c8332-9c2b-4ee3-9a0a-bacb024cbdee" />
